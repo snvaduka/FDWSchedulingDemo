@@ -1,0 +1,6 @@
+#dagfileName=Location of the dag definition file
+dagfileName=dags/UpdateDag.py
+#requirements_file=[NA/requirements/project1_requirements.txt] # Pass NA if not applicable
+requirements_file=requirements/project1_requirements.txt
+#dependencies=Dag File Dependencies relative path for the dags
+dependencies=scripts/UpdateDag.sh
